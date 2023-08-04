@@ -22,7 +22,7 @@
 
 🔭 I’m constantly learning and improving my programming skills
 
-⚡ My favorite programming language is C++
+⚡ My main programming language is C++
 
 ### My games 🎮
 - **Top-down shooter:** I am currently working on a personal project that involves implementing AI steering behaviors
